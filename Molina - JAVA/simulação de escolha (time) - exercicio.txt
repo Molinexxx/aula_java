@@ -1,0 +1,22 @@
+simulação de escolha (time)
+
+
+o usuário tem que informa o votos (números inteiros).
+
+Os candidatos são numerados de 1 a 5.
+
+O voto 0 encerra a votação.
+
+Qualquer número diferente de 0 a 5 deve ser considerado voto inválido.
+
+Ao final, o programa deve mostrar:
+
+Total de votos válidos
+
+Total de votos inválidos
+
+Quantidade de votos de cada candidato
+
+Percentual de votos de cada candidato
+
+Qual foi o candidato vencedor
